@@ -8,4 +8,3 @@ FAQ
 
 CodeCamp
 
-![]blob:https://web.whatsapp.com/c2f6c44b-81cc-4144-b226-033ccc032ddf
